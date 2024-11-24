@@ -1,0 +1,14 @@
+C:\Users\35386\Desktop\FiresticKeySender\bin\Debug\net6.0\FiresticKeySender.exe
+C:\Users\35386\Desktop\FiresticKeySender\bin\Debug\net6.0\FiresticKeySender.deps.json
+C:\Users\35386\Desktop\FiresticKeySender\bin\Debug\net6.0\FiresticKeySender.runtimeconfig.json
+C:\Users\35386\Desktop\FiresticKeySender\bin\Debug\net6.0\FiresticKeySender.dll
+C:\Users\35386\Desktop\FiresticKeySender\bin\Debug\net6.0\FiresticKeySender.pdb
+C:\Users\35386\Desktop\FiresticKeySender\obj\Debug\net6.0\FiresticKeySender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\35386\Desktop\FiresticKeySender\obj\Debug\net6.0\FiresticKeySender.AssemblyInfoInputs.cache
+C:\Users\35386\Desktop\FiresticKeySender\obj\Debug\net6.0\FiresticKeySender.AssemblyInfo.cs
+C:\Users\35386\Desktop\FiresticKeySender\obj\Debug\net6.0\FiresticKeySender.csproj.CoreCompileInputs.cache
+C:\Users\35386\Desktop\FiresticKeySender\obj\Debug\net6.0\FiresticKeySender.dll
+C:\Users\35386\Desktop\FiresticKeySender\obj\Debug\net6.0\refint\FiresticKeySender.dll
+C:\Users\35386\Desktop\FiresticKeySender\obj\Debug\net6.0\FiresticKeySender.pdb
+C:\Users\35386\Desktop\FiresticKeySender\obj\Debug\net6.0\FiresticKeySender.genruntimeconfig.cache
+C:\Users\35386\Desktop\FiresticKeySender\obj\Debug\net6.0\ref\FiresticKeySender.dll
