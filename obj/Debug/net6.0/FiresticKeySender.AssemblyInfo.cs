@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FiresticKeySender")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+12fb1cd58be3233f510ebde8aeaeca0a88459fb5")]
 [assembly: System.Reflection.AssemblyProductAttribute("FiresticKeySender")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FiresticKeySender")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
